@@ -1,0 +1,23 @@
+{
+  "name": "azureclass",
+  "version": "1.0.0",
+  "description": "<h1>\r   Link de azure:\r </h1>\r <br></br>\r <p align=\"justify\">\r   https://gentle-field-057081a10.azurestaticapps.net/\r </p>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelASantosTrujillo/azureclass.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sass": "^1.29.0"
+  },
+  "bugs": {
+    "url": "https://github.com/RafaelASantosTrujillo/azureclass/issues"
+  },
+  "homepage": "https://github.com/RafaelASantosTrujillo/azureclass#readme"
+}
